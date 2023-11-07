@@ -1,0 +1,71 @@
+**.airkiss** | **!airkiss** - воздушный поцелуй
+**.angrystare** | **!angrystare** - злой взгляд
+**.bite** | **!bite** - кусать
+**.bleh** | **!bleh** - бле
+**.blush** | **!blush** - краснеть
+**.brofist** | **!brofist** - брофист
+**.celebrate** | **!celebrate** - праздновать
+**.cheers** | **!cheers** - ваше здоровье
+**.clap** | **!clap** - хлопать в ладоши
+**.confused** | **!confused** - смущенный
+**.cool** | **!cool** - прохладный
+**.cry** | **!cry** - плакать
+**.cuddle** | **!cuddle** - обнимать
+**.dance** | **!dance** - танец
+**.drool** | **!drool** - пускать слюни
+**.evillaugh** | **!evillaugh** - зло смеется
+**.facepalm** | **!facepalm** - фейспалм
+**.handhold** | **!handhold** - рукоять
+**.happy** | **!happy** - счастливый
+**.headbang** | **!headbang** - тряска головой
+<split>
+**.hug** | **!hug** - обнимать
+**.kiss** | **!kiss** - целовать
+**.laugh** | **!laugh** - смех
+**.lick** | **!lick** - лизать
+**.love** | **!love** - любовь
+**.mad** | **!mad** - безумный
+**.nervous** | **!nervous** - нервный
+**.no** | **!no** - нет
+**.nom** | **!nom** - имя
+**.nosebleed** | **!nosebleed** - носовое кровотечение
+**.nuzzle** | **!nuzzle** - тыкаться носом
+**.nyah** | **!nyah** - ня
+**.pat** | **!pat** - погладить
+**.peek** | **!peek** - подглядывать
+**.pinch** | **!pinch** - ущипнуть
+**.poke** | **!poke** - тыкать
+**.pout** | **!pout** - дуться
+**.punch** | **!punch** - ударить кулаком
+**.roll** | **!roll** - рулон
+**.run** | **!run** - бегать
+<split>
+**.sad** | **!sad** - грустный
+**.scared** | **!scared** - испуганный
+**.shrug** | **!shrug** - пожимание плечами
+**.shy** | **!shy** - застенчивый
+**.sigh** | **!sigh** - вздох
+**.sip** | **!sip** - глоток
+**.slap** | **!slap** - шлепок
+**.sleep** | **!sleep** - спать
+**.smoke** | **!smoke** - курить
+**.slowclap** | **!slowclap** - медленный хлопок
+**.smack** | **!smack** - хлопать
+**.smile** | **!smile** - улыбка
+**.smug** | **!smug** - самодовольный
+**.sneeze** | **!sneeze** - чихать
+**.sorry** | **!sorry** - извини
+**.stare** | **!stare** - глазеть
+**.stop** | **!stop** - останавливаться
+**.surprised** | **!surprised** - удивлен
+**.sweat** | **!sweat** - пот
+**.thumbsup** | **!thumbsup** - недурно
+<split>
+**.tickle** | **!tickle** - щекотать
+**.tired** | **!tired** - усталый
+**.wave** | **!wave** - волна
+**.wink** | **!wink** - подмигивание
+**.woah** | **!woah** - вау
+**.yawn** | **!yawn** - зевать
+**.yay** | **!yay** - ура
+**.yes** | **!yes** - да
