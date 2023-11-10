@@ -12,7 +12,7 @@ export async function messages(msg) {
                 content: 'Начинаю дешифровать двачерскую речь...',
                 allowedMentions: { repliedUser: false }
             })
-            if (info.size < 300000) {
+            if (info.size < 3000000) {
                 try {
                     await new Promise((res, rej) => {
                         request(info.url)
