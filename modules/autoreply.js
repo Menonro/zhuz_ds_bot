@@ -18,7 +18,7 @@ export async function messages(msg) {
     //         channel.send(msg.content.substring(5));
     //     }
     // }
-    if (msg.content.match(/контора/i)) {
+    if (msg.content.match(/контор/i)) {
         await msg.reply('<:kontora:1039856569019531264>');
     }
     if (msg.content.includes(':kontora:')) {
@@ -76,7 +76,7 @@ export async function messages(msg) {
     if (msg.content.match(/<:you_gay:1114856820264149014>/gi)) {
         await msg.reply('<:noyou_gay:1114860104949448714>');
     }
-    if (msg.content.match(/сам/gi) && msg.content.match(/гей/gi)) {
+    if (msg.content.match(/сам гей/gi)) {
         await msg.reply('https://media.discordapp.net/attachments/987305087783301130/1113577280887857163/image_15-PhotoRoom.png-PhotoRoom.png');
     } else if (msg.content.match(/гей /gi) || msg.content == 'гей') {
         await msg.reply('https://media.discordapp.net/attachments/987305087783301130/1113577280636211210/yaegay.png');
@@ -99,7 +99,7 @@ export async function messages(msg) {
     //     await msg.reply('https://tenor.com/view/cum-penis-cum-i-creamed-cumming-xd-gif-20404521');
     // }
     if (msg.content.match(/пездюк умри/gi)) {
-        await msg.channel.send('https://tenor.com/view/spongebob-stabbing-himself-minul-mirdha-spongebob-suicide-gif-19249830');
+        await msg.channel.send('https://tenor.com/view/1416-gif-25841482');
     }
     if (msg.content.match(/пездюк встань/gi)) {
         await msg.channel.send('https://tenor.com/view/resurrection-resurrect-back-from-the-dead-coffin-gif-17046161');

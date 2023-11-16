@@ -69,12 +69,12 @@ client.on('messageCreate', async msg => {
     await messagesSpeach(msg)
     await messagesImages(msg)
     await messagesAutoReplyes(msg)
+    await messagesTimer(msg)
+    await messagesPatPat(msg)
     if (getWhitelist().whitelist.servers.TL != msg.guild.id + '') {
         await messagesGPT(msg)
         await messagesTime(msg)
-        await messagesPatPat(msg)
         await messagesHelp(msg)
-        await messagesTimer(msg)
         await messagesSD(msg, client)
     } else {
         // console.log(msg);
